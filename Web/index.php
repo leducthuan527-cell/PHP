@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>3D Coverflow - One Page Portfolio</title>
-    <link href="styles.css" rel="stylesheet">
+    <title>Web Page</title>
+    <link href="styles.php" rel="stylesheet">
 </head>
 <body>
     <header class="header" id="header">
@@ -134,7 +134,7 @@
         <span>↑</span>
     </div>
 
-<script src="script.js"></script>
+<script src="script.php"></script>
 
 </body>
 </html>
