@@ -113,6 +113,9 @@
                 <a href="BaiTap/bt1.php">Bài Tập 1</a>
                 <a href="BaiTap/bt2.php">Bài Tập 2</a>
                 <a href="BaiTap/bt3.php">Bài Tập 3</a>
+                <a href="BaiTap/bt3.php">Bài Tập 4_GET</a>
+                <a href="BaiTap/bt3.php">Bài Tập 4_POST</a>
+                <a href="BaiTap/bt5.php">Bài Tập 5</a>
             </div>
         </div>
       </div>
